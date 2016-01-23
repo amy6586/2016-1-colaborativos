@@ -1,0 +1,9 @@
+c:\users\laboratorio\documents\visual studio 2015\Projects\Hello.World.Console\Hello.World.Console\bin\Debug\Hello.World.Console.exe.config
+c:\users\laboratorio\documents\visual studio 2015\Projects\Hello.World.Console\Hello.World.Console\bin\Debug\Hello.World.Console.exe
+c:\users\laboratorio\documents\visual studio 2015\Projects\Hello.World.Console\Hello.World.Console\bin\Debug\Hello.World.Console.pdb
+c:\users\laboratorio\documents\visual studio 2015\Projects\Hello.World.Console\Hello.World.Console\obj\Debug\Hello.World.Console.csprojResolveAssemblyReference.cache
+c:\users\laboratorio\documents\visual studio 2015\Projects\Hello.World.Console\Hello.World.Console\obj\Debug\Hello.World.Console.exe
+c:\users\laboratorio\documents\visual studio 2015\Projects\Hello.World.Console\Hello.World.Console\obj\Debug\Hello.World.Console.pdb
+D:\2016-1-colaborativos\Hello.World.Console\Hello.World.Console\bin\Debug\Hello.World.Console.exe.config
+D:\2016-1-colaborativos\Hello.World.Console\Hello.World.Console\obj\Debug\Hello.World.Console.exe
+D:\2016-1-colaborativos\Hello.World.Console\Hello.World.Console\obj\Debug\Hello.World.Console.pdb
